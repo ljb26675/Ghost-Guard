@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DoorController.cs" Line="27" Column="50" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="52" Column="103" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="88" Column="32" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\LevelUnlockController.cs" Line="27" Column="25" />
+      <File FileName="Assets\Scripts\WerewolfController.cs" Line="37" Column="4" />
+      <File FileName="Assets\Scripts\SkeletonController.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\HumanController.cs" Line="47" Column="57" />
+      <File FileName="Assets\Scripts\LeverController.cs" Line="30" Column="2" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="16" Column="25" />
+      <File FileName="Assets\Scripts\BreakableWallScript.cs" Line="17" Column="36" />
+      <File FileName="Assets\Scripts\FrankController.cs" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\Restart.cs" Line="3" Column="3" />
+      <File FileName="Assets\Scripts\Quit.cs" Line="20" Column="39" />
+      <File FileName="Assets\Scripts\DigUnlock.cs" Line="68" Column="4" />
+      <File FileName="Assets\Scripts\IntroAnimation.cs" Line="23" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
